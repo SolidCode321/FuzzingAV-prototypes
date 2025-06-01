@@ -1,0 +1,11 @@
+file,infected,output
+../samples/fuzzed/fuzz_4519.txt,False,
+../samples/fuzzed/fuzz_9091.txt,False,
+../samples/fuzzed/fuzz_4367.txt,False,
+../samples/fuzzed/fuzz_1145.txt,False,
+../samples/fuzzed/fuzz_8725.txt,False,
+../samples/fuzzed/fuzz_8286.txt,False,
+../samples/fuzzed/fuzz_9995.txt,False,
+../samples/fuzzed/fuzz_7996.txt,False,
+../samples/fuzzed/fuzz_4032.txt,False,
+../samples/fuzzed/fuzz_7816.txt,False,
