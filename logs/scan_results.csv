@@ -1,11 +1,3 @@
-file,infected,output
-../samples/fuzzed/fuzz_4442.txt,False,
-../samples/fuzzed/fuzz_2723.txt,False,
-../samples/fuzzed/fuzz_3459.txt,False,
-../samples/fuzzed/fuzz_3651.txt,False,
-../samples/fuzzed/fuzz_1419.txt,False,
-../samples/fuzzed/fuzz_9721.txt,False,
-../samples/fuzzed/fuzz_3059.txt,False,
-../samples/fuzzed/fuzz_2034.txt,False,
-../samples/fuzzed/fuzz_1566.txt,False,
-../samples/fuzzed/fuzz_2292.txt,False,
+file,infected,crashed,returncode,stdout,stderr
+../samples/fuzzed/fuzz_2844.txt,False,False,0,,
+../samples/fuzzed/fuzz_1827.txt,False,False,0,,

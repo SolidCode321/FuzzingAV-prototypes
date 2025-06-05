@@ -6,7 +6,7 @@ import csv
 import os
 
 # Prepare logs directory
-logfile = 'logs/scan_results.csv'
+logfile = 'FuzzingAV-prototypes/logs/scan_results.csv'
 os.makedirs('logs', exist_ok=True)
 
 # Set up CSV for logging results
